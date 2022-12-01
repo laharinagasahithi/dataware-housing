@@ -1,0 +1,5 @@
+A Data Warehouse is a collection of software tools that facilitates analysis of a large set of business data used to help an organization make decisions.
+A large amount of data in data warehouses comes from numerous sources such that internal applications like marketing, sales, and finance; customer-facing apps; and external partner systems, among others. 
+It is a centralized data repository for analysts that can be queried whenever required for business benefits. 
+A data warehouse is mainly a data management system that’s designed to enable and support business intelligence (BI) activities, particularly analytics. 
+Data warehouses are alleged to perform queries, cleaning, manipulating, transforming and analyzing the data and they also contain large amounts of historical data.
